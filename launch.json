@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "voronoi-web",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "3700"],
+      "port": 3700
+    }
+  ]
+}
